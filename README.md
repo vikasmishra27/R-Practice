@@ -1,6 +1,6 @@
 ## Practice#1
 
-### R-PracticeRed Car possible questions 
+### Red Car possible questions 
 Problem Description:-
 The attached dataset has a lot of variables.
 These are the following tasks that you have to do in order to finish the assessment:- 
